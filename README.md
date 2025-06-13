@@ -2,10 +2,10 @@
 
 Este script lê arquivos CSV de estações meteorológicas do BDMEP, extrai as temperaturas máximas e mínimas, calcula a média por mês e gera um arquivo GeoJSON com as informações e a localização das estações.
 
-✅ Feito para funcionar diretamente com os arquivos originais do BDMEP
+✅ Feito para funcionar diretamente com os arquivos originais do BDMEP: 
 O script é compatível com os arquivos CSV baixados diretamente do site do BDMEP, sem necessidade de edição ou pré-processamento.
 
-🔧 Configuração padrão
+🔧 Configuração padrão: 
 Atualmente, o script processa os meses de outubro (10), novembro (11) e dezembro (12), mas essa seleção é facilmente customizável para qualquer outro mês, bastando alterar a lista de meses no código.
 
 ## O que o script faz:
